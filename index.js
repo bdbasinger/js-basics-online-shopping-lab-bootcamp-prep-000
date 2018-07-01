@@ -54,7 +54,7 @@ function removeFromCart(item) {
 }
 
 function placeOrder(cardNumber) {
-  if (cardNumber !== 0) {
+  if (cardNumber ) {
     console.log("Sorry, we don't have a credit card on file for you.")
   } else {
     console.log(`Your total cost is $${total()}, which will be charged to the card ${cardNumber}.`)
@@ -64,11 +64,11 @@ function placeOrder(cardNumber) {
 
 
 
-addToCart("apples")
-addToCart("bananas")
-addToCart("blueberries")
+//addToCart("apples")
+//addToCart("bananas")
+//addToCart("blueberries")
 
-viewCart()
+//viewCart()
 
 
 
