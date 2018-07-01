@@ -64,6 +64,10 @@ function placeOrder(cardNumber) {
   }
 }
 
+function placeOrder(cardNumber) {
+  if 
+}
+
 
 
 //addToCart("apples")
