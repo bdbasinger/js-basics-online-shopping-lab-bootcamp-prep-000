@@ -65,7 +65,12 @@ function placeOrder(cardNumber) {
 }
 
 function placeOrder(cardNumber) {
-  if 
+  if (Number.isInteger(cardNumber)) {
+    var t = total()
+    cart = []
+    return `Your total cost is $${t}, which will be charged to the card ${cardNumber}.`
+  }
+  
 }
 
 
