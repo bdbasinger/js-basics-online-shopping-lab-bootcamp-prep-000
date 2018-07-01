@@ -66,22 +66,4 @@ function placeOrder(cardNumber) {
 
 
 
-// Step Number 18 says the function should PRINT OUT: 
-// Sorry, we don't have a credit card on file for you..
-// It says nothing about RETURNING the value.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
