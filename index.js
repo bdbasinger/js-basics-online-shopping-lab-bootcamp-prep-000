@@ -70,7 +70,7 @@ function placeOrder(cardNumber) {
 
 //viewCart()
 
-
+placeOrder()
 
 
 
