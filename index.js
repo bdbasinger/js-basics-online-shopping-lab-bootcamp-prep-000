@@ -57,18 +57,6 @@ function removeFromCart(item) {
 
 
 
-//addToCart("apples")
-//addToCart("bananas")
-//addToCart("blueberries")
-
-//viewCart()
-
-placeOrder()
-
-//Sorry, we don't have a credit card on file for you.
-//Sorry, we don't have a credit card on file for you.
-
-
 
 
 
