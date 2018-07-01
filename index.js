@@ -66,7 +66,7 @@ function placeOrder(cardNumber) {
 
 //addToCart("apples")
 //addToCart("bananas")
-//addToCart("blueberries")
+addToCart("blueberries")
 
 //viewCart()
 
