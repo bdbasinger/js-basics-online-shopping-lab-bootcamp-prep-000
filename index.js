@@ -71,7 +71,7 @@ addToCart("blueberries")
 viewCart()
 
 
-placeOrder(8853538)
+
 
 
 
