@@ -72,7 +72,7 @@ addToCart("blueberries")
 
 //viewCart()
 
-placeOrder(91672612)
+placeOrder()
 
 
 
